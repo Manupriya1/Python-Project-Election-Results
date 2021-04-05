@@ -14,7 +14,8 @@ I used Python to analyze election data of U.S. congressional precint in Colorado
 ## Election-Audit Results
  - How many votes were cast in this congressional election : **369,711**
  
- - The breakdown of the number of votes and the percentage of total votes for each county in the precinct: 
+ - The breakdown of the number of votes and the percentage of total votes for each county in the precinct:
+ - 
        1. **Jefferson : 10.5% (38,855)**
        2. **Denver : 82.8% (306,055)** 
        3. **Arapahoe : 6.7% (24,801)**
@@ -22,6 +23,7 @@ I used Python to analyze election data of U.S. congressional precint in Colorado
 - The county with the largest number of votes: **Denver**
 
 - The breakdown of the number of votes and the percentage of the total votes each candidate received:
+
        1. **Charles Casper Stockham: 23.0% (85,213)**
        2. **Diana DeGette: 73.8% (272,892)**
        3. **Raymon Anthony Doane: 3.1% (11,606)**

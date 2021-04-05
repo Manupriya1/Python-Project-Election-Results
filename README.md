@@ -19,14 +19,14 @@ I used Python to analyze election data of U.S. congressional precint in Colorado
         - Denver : 82.8% 306,055 
         - Arapahoe : 6.7% 24,801**
 
--The county with the largest number of votes: **Denver**
+- The county with the largest number of votes: **Denver**
 
--The breakdown of the number of votes and the percentage of the total votes each candidate received:
+- The breakdown of the number of votes and the percentage of the total votes each candidate received:
        ** - Charles Casper Stockham: 23.0% (85,213)
         - Diana DeGette: 73.8% (272,892)
         - Raymon Anthony Doane: 3.1% (11,606)**
         
--The winner candidate:  **Diana DeGette: 73.8% (272,892)**
+- The winner candidate:  **Diana DeGette: 73.8% (272,892)**
 
 <img width="196" alt="Results" src="https://user-images.githubusercontent.com/69255270/113533653-440eb100-9583-11eb-86a3-092ef5c29947.png">
 

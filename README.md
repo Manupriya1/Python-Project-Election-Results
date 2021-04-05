@@ -15,9 +15,9 @@ I used Python to analyze election data of U.S. congressional precint in Colorado
  - How many votes were cast in this congressional election : **369,711**
  
  - The breakdown of the number of votes and the percentage of total votes for each county in the precinct: 
-       ** - Jefferson : 10.5% 38,855
-        - Denver : 82.8% 306,055 
-        - Arapahoe : 6.7% 24,801**
+       ** - Jefferson : 10.5% (38,855)
+        - Denver : 82.8% (306,055) 
+        - Arapahoe : 6.7% (24,801)**
 
 - The county with the largest number of votes: **Denver**
 

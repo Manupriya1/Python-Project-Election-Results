@@ -28,7 +28,7 @@ I used Python to analyze election data of U.S. congressional precint in Colorado
         
 - The winner candidate:  **Diana DeGette: 73.8% (272,892)**
 
-<img width="196" alt="Results" src="https://user-images.githubusercontent.com/69255270/113533653-440eb100-9583-11eb-86a3-092ef5c29947.png">
+                 <img width="196" alt="Results" src="https://user-images.githubusercontent.com/69255270/113533653-440eb100-9583-11eb-86a3-092ef5c29947.png">
 
 ## Election-Audit Summary: 
 Using Python is a very efficient way of analysing big data like election data.  The current script can be used for any congressional elections. The script can be further modified to find out 
